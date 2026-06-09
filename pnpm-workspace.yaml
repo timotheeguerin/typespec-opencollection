@@ -12,5 +12,5 @@ catalogs:
     "@typespec/emitter-framework": "^0.17.0"
     "@alloy-js/core": "^0.22.0"
     typescript: "~5.8.2"
-    vitest: "^3.0.0"
+    vitest: "^3.2.6"
     "@types/node": "^25.5.0"
